@@ -6,3 +6,16 @@ body {
 a {
   color: #00B7FF;
 }
+
+form {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+button {
+  color: red;
+}
+
+li {
+  list-style: none;
+}
